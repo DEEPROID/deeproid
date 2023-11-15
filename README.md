@@ -22,7 +22,7 @@
 <a href="https://twitter.com/pixelscatsnfts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pixelscatsnfts" height="30" width="40" /></a>
 <a href="https://instagram.com/off_diako" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="off_diako" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/deepeditx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deepeditx" height="30" width="40" /></a>
-<a href="https://discord.gg/GDWn2XN9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GDWn2XN9" height="30" width="40" /></a>
+<a href="http://discordapp.com/users/654734522801324055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GDWn2XN9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
